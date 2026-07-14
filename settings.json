@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "bruh",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "hi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "Modsmpseason2.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "idkkkkkkkkkkkkk",
         "I like to play Minecraft!"
       ]
     },
